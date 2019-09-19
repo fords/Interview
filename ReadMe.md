@@ -1,4 +1,4 @@
-# Interview Problem Practice By Topics
+# Interview Problems Practice By Topics
 
 ## Array
 
@@ -123,3 +123,32 @@
 - [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+---
+
+### Notes from CTCI
+1. Ask Questions
+2. Design Algorithm ( recommend to start with brute force -> then optimize )
+3. Pseudocode ( Outline your thoughts)
+4. Code
+5. Test ( 1 Edge cases : negative, null, min, max )
+
+      (   2 General cases )
+
+
+## Five Algorithm Approaches
+1. Examplify -> start writing test examples
+2. Pattern Matching
+3. Simplify
+4. Base case and build
+5. Data structure and brainstorm
+
+## How To Practice a Question
+1. Try to solve your own
+2. Write the code algorithm on paper
+3. Test your code
+4. Type your paper code into computer.
+
+When solving problems, create a list to track mistakes you've made solving problems.
+
+Before interview day, review the list of mistakes you usually made.
