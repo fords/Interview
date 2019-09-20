@@ -164,7 +164,7 @@ Before interview day, review the list of mistakes you usually made.
 
 ## Practice
 1. Topics to Study https://www.interviewbit.com/
-2. Interview Study Guide for Short Time[https://github.com/fords/Interview/tree/master/ShortTimeStudyGuide]
+2. [Interview Study Guide for Short Time](https://github.com/fords/Interview/tree/master/ShortTimeStudyGuide)
 3. Practice https://www.hackerrank.com
 4. Practice https://github.com/skygragon/leetcode-cli
 5. Competitive Programming https://www.topcoder.com/challenges/
