@@ -29,6 +29,7 @@
 
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [Coin Change](https://leetcode.com/problems/coin-change/)
+- [Knapsack Problem 0-1](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) https://www.hackerearth.com/practice/notes/the-knapsack-problem/
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [Word Break Problem](https://leetcode.com/problems/word-break/)
@@ -51,7 +52,7 @@
 - [Alien Dictionary (Premium)](https://leetcode.com/problems/alien-dictionary/)
 - [Graph Valid Tree (Premium)](https://leetcode.com/problems/graph-valid-tree/)
 - [Number of Connected Components in an Undirected Graph (Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
-- [cheapest flights within K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 ---
 
 ## Interval
@@ -152,3 +153,10 @@
 When solving problems, create a list to track mistakes you've made solving problems.
 
 Before interview day, review the list of mistakes you usually made.
+
+
+## Mock Interview Platform
+1. [Elements of Programming Interview Online Judge](https://github.com/adnanaziz/EPIJudge)
+2. [Free Platform Pramp](https://www.pramp.com)
+3. [Free Platform Interviewing.io](https://interviewing.io/)
+4. [Paid Mock Interview](https://www.mocksure.io)
