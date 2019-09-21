@@ -15,7 +15,7 @@
 
 ---
 
-## Binary
+## Bit-Manipulation
 
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
@@ -32,7 +32,7 @@
 - [Knapsack Problem 0-1](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) https://www.hackerearth.com/practice/notes/the-knapsack-problem/
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [Word Break Problem](https://leetcode.com/problems/word-break/)
+- [Word Break](https://leetcode.com/problems/word-break/)
 - [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
 - [House Robber](https://leetcode.com/problems/house-robber/)
 - [House Robber II](https://leetcode.com/problems/house-robber-ii/)
@@ -49,9 +49,9 @@
 - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [Alien Dictionary (Premium)](https://leetcode.com/problems/alien-dictionary/)
-- [Graph Valid Tree (Premium)](https://leetcode.com/problems/graph-valid-tree/)
-- [Number of Connected Components in an Undirected Graph (Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [Alien Dictionary (Premium)](https://www.lintcode.com/problem/alien-dictionary/description)
+- [Graph Valid Tree (Premium)](https://www.lintcode.com/problem/graph-valid-tree/)
+- [Number of Connected Components in an Undirected Graph (Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)  https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 ---
 
@@ -60,8 +60,8 @@
 - [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [Meeting Rooms (Premium)](https://leetcode.com/problems/meeting-rooms/)
-- [Meeting Rooms II (Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
+- [Meeting Rooms (Premium)](https://www.lintcode.com/problem/meeting-rooms/description)
+- [Meeting Rooms II (Premium)](https://www.lintcode.com/problem/meeting-rooms-ii/description)
 
 ---
 
@@ -96,7 +96,7 @@
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
-- [Encode and Decode Strings (Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
+- [Encode and Decode Strings (Premium)](https://www.lintcode.com/problem/encode-and-decode-strings/description)
 
 ---
 
@@ -154,9 +154,16 @@ When solving problems, create a list to track mistakes you've made solving probl
 
 Before interview day, review the list of mistakes you usually made.
 
+---
 
 ## Mock Interview Platform
 1. [Elements of Programming Interview Online Judge](https://github.com/adnanaziz/EPIJudge)
 2. [Free Platform Pramp](https://www.pramp.com)
 3. [Free Platform Interviewing.io](https://interviewing.io/)
 4. [Paid Mock Interview](https://www.mocksure.io)
+
+## Practice
+1. Topics to study https://www.interviewbit.com/
+2. Practice https://www.hackerrank.com
+3. Practice https://github.com/skygragon/leetcode-cli
+4. Competitive Programming https://www.topcoder.com/challenges/
