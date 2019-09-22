@@ -19,7 +19,7 @@
             <td>4.1</td>
             <td>4.7</td>
             <td>4.8</td>
-            <td>4.3</td> , <td>4.11</td>
+            <td>4.3, 4.11</td>
             <td>4.9</td>
         </tr>
         <tr>
@@ -31,10 +31,10 @@
         </tr>
         <tr>
             <td>6.1 </td>
-            <td>6.2 , 6.4 </td>
-            <td>6.5 , 6.6 </td>
-            <td>6.7 , 6.8 </td>
-            <td>6.9 , 6.11 </td>
+            <td>6.2, 6.4 </td>
+            <td>6.5, 6.6 </td>
+            <td>6.7, 6.8 </td>
+            <td>6.9, 6.11 </td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/merge-two-sorted-lists">7.1</a></td>
@@ -69,21 +69,21 @@
             <td>11.4, <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">11.8</a></td>
             <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array">11.3</a>, 11.9</td>
             <td>11.5, 11.10 </td>
-            <td><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">11.6</a>,11.7</td>
+            <td><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">11.6</a>, 11.7</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/ransom-note/">12.2</a></td>
-            <td>12.3,12.5</td>
-            <td>12.1,12.5</td>
-            <td>12.4, 12.6</td>
-            <td>12.9</td>
+            <td>12.6, 12.3</td>
+            <td>12.1, 12.6</td>
+            <td>12.4, 12.7</td>
+            <td>12.10</td>
         </tr>
         <tr>
             <td>13.1</td>
             <td><a href="https://leetcode.com/problems/merge-sorted-array">13.2</a></td>
-            <td>13.6</td>
-            <td>13.8, 13.11</td>
-            <td>13.9</td>
+            <td>13.5</td>
+            <td>13.7, 13.10</td>
+            <td>13.8</td>
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/validate-binary-search-tree">14.1</a></td>
@@ -102,8 +102,8 @@
         <tr>
             <td>16.1</td>
             <td>16.2</td>
-            <td>16.3</a> , 16.6</td>
-            <td>16.5</a> , 16.7</td>
+            <td>16.3, 16.6</td>
+            <td>16.5, 16.7</td>
             <td>16.12</td>
         </tr>
         <tr>
@@ -118,7 +118,7 @@
             <td>18.7</td>
             <td>18.2</td>
             <td>18.3</td>
-            <td>18.5</td>
+            <td>18.9</td>
         </tr>
         <tr>
             <td>19.3</td>
