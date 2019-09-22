@@ -19,8 +19,7 @@
             <td>4.1</td>
             <td>4.7</td>
             <td>4.8</td>
-            <td>4.3</td> ,
-            <td>4.11</td>
+            <td>4.3</td> , <td>4.11</td>
             <td>4.9</td>
         </tr>
         <tr>
@@ -75,22 +74,16 @@
         <tr>
             <td><a href="https://leetcode.com/problems/ransom-note/">12.2</a></td>
             <td>12.3,12.5</td>
-
             <td>12.1,12.5</td>
-
             <td>12.4, 12.6</td>
-
             <td>12.9</td>
-
         </tr>
         <tr>
             <td>13.1</td>
             <td><a href="https://leetcode.com/problems/merge-sorted-array">13.2</a></td>
             <td>13.6</td>
-
             <td>13.8, 13.11</td>
             <td>13.9</td>
-
         </tr>
         <tr>
             <td><a href="https://leetcode.com/problems/validate-binary-search-tree">14.1</a></td>
@@ -98,7 +91,6 @@
             <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">14.4</a></td>
             <td>14.5</a>, <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree">14.8</a></td>
             <td>14.7</td>
-
         </tr>
         <tr>
             <td>15.1</td>
@@ -117,27 +109,17 @@
         </tr>
         <tr>
             <td>17.4</td>
-
             <td>17.6</td>
-
             <td>17.5</td>
-
             <td>17.7</td>
-
             <td>17.8</td>
-
         </tr>
         <tr>
             <td>18.1</td>
-
             <td>18.7</td>
-
             <td>18.2</td>
-
             <td>18.3</td>
-
             <td>18.5</td>
-
         </tr>
         <tr>
             <td>19.3</td>
