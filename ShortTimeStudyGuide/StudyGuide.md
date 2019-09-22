@@ -16,11 +16,11 @@
 	    <td>C4</td>
     </tr>
         <tr>
-    <td><a href="">4.1</a></td>
-    <td><a href="">4.7</a></td>
-    <td><a href="">4.8</a></td>
-    <td><a href="">4.3</a>, <a href="">4.11</a></td>
-    <td><a href="">4.9</a></td>
+    <td>4.1</td>
+    <td><a >4.7</a></td>
+    <td><a >4.8</a></td>
+    <td><a >4.3</a>, <a href="">4.11</a></td>
+    <td><a >4.9</a></td>
     </tr>
     <tr>
     <td><a href="https://leetcode.com/problems/sort-colors/">5.1</a>, <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">5.6</a></td>
@@ -30,11 +30,11 @@
     <td><a href="">5.3</a>, <a href="">5.10</a>, <a href="">5.15</a></td>
     </tr>
         <tr>
-    <td><a href="">6.1</a></td>
-    <td><a href="">6.2</a>, <a href="">6.4</a></td>
-    <td><a href="">6.5</a>, <a href="">6.6</a></td>
-    <td><a href="">6.7</a>, <a href="">6.8</a></td>
-    <td><a href="">6.9</a>, <a href="">6.11</a></td>
+    <td><a href="">6.1 NA</a></td>
+    <td><a href="">6.2 NA</a>, <a href="">6.4</a></td>
+    <td><a href="">6.5 NA</a>, <a href="">6.6</a></td>
+    <td><a href="">6.7 NA</a>, <a href="">6.8</a></td>
+    <td><a href="">6.9 NA</a>, <a href="">6.11</a></td>
     </tr>
      <tr>
     <td><a href="https://leetcode.com/problems/merge-two-sorted-lists">7.1</a></td>
