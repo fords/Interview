@@ -157,13 +157,14 @@ Before interview day, review the list of mistakes you usually made.
 ---
 
 ## Mock Interview Platform
-1. [Elements of Programming Interview Online Judge](https://github.com/adnanaziz/EPIJudge)
+1. [Elements of Programming Interview Online Judge](https://github.com/adnanaziz/EPIJudge) Problems From Elements of Programming Interview Book
 2. [Free Platform Pramp](https://www.pramp.com)
 3. [Free Platform Interviewing.io](https://interviewing.io/)
 4. [Paid Mock Interview](https://www.mocksure.io)
 
 ## Practice
-1. Topics to study https://www.interviewbit.com/
-2. Practice https://www.hackerrank.com
-3. Practice https://github.com/skygragon/leetcode-cli
-4. Competitive Programming https://www.topcoder.com/challenges/
+1. Topics to Study https://www.interviewbit.com/
+2. [Interview Study Guide for Short Time](https://github.com/fords/Interview/tree/master/ShortTimeStudyGuide)
+3. Practice https://www.hackerrank.com
+4. Practice https://github.com/skygragon/leetcode-cli
+5. Competitive Programming https://www.topcoder.com/challenges/
