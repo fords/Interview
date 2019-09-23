@@ -161,10 +161,13 @@ Before interview day, review the list of mistakes you usually made.
 2. [Free Platform Pramp](https://www.pramp.com)
 3. [Free Platform Interviewing.io](https://interviewing.io/)
 4. [Paid Mock Interview](https://www.mocksure.io)
+5. [Paid Mock Interview 2](https://www.techmockinterview.com/)
+6. [Paid Mock Interview 3](https://www.gainlo.co)
+7. [Free Mock Online Assessment](https://www.hackerearth.com/challenges/competitive/)
 
 ## Practice
 1. Topics to Study https://www.interviewbit.com/
-2. [Interview Study Guide for Short Time](https://github.com/fords/Interview/tree/master/ShortTimeStudyGuide)
+2. [Interview Study Guide for Short Time](https://github.com/fords/Interview/tree/master/ShortTimeStudyGuide) Elements of Programming Interview Book
 3. Practice https://www.hackerrank.com
 4. Practice https://github.com/skygragon/leetcode-cli
 5. Competitive Programming https://www.topcoder.com/challenges/

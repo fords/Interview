@@ -55,7 +55,7 @@
 | 7.7 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 7.8 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 7.9 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) |
-| 7.10 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) note: odd first instead of even |
+| 7.10 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  |
 | 7.11 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |
 | 7.12 | [86. Partition List](https://leetcode.com/problems/partition-list/) |
 | 7.13 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |
@@ -64,7 +64,7 @@
 
 | Problem | LeetCode |
 |---------|----------|
-| 8.1       | [155. Min Stack](https://leetcode.com/problems/min-stack/) note: min instead of max |
+| 8.1       | [155. Min Stack](https://leetcode.com/problems/min-stack/) Note: min instead of max |
 | 8.2 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 8.3 | [20. Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) |
 | 8.4 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) |
@@ -83,11 +83,11 @@
 | 9.4 | []() |
 | 9.5 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
 | 9.6 | [112. Path Sum](https://leetcode.com/problems/path-sum/) |
-| 9.7 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) note: solve without recursion |
-| 9.8 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) note: solve without recursion |
+| 9.7 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) Note: solve without recursion |
+| 9.8 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) Note: solve without recursion |
 | 9.9 | []() |
 | 9.10 | []() |
-| 9.11 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) note: solve with constant space |
+| 9.11 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) Note: solve with constant space |
 | 9.12 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 | 9.13 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |
 | 9.14 | []() |
