@@ -40,7 +40,7 @@
 - [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [Jump Game](https://leetcode.com/problems/jump-game/)
-
+- [(Optional) Minimum number of cost tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 ---
 
 ## Graph
@@ -151,11 +151,21 @@
 3. Test your code
 4. Type your paper code into computer.
 
+
 When solving problems, create a list to track mistakes you've made solving problems.
 
 Before interview day, review the list of mistakes you usually made.
 
 ---
+## Tips for Solving Interview Problems from FAANG Employees
+1. Restate the question i.e. Check assumptions - ask questions and interviewer's expectations.
+2. Think of a simpler version of the problem with a few TEST CASES (e.g. array is sorted, using only a few numbers in array, or not constant space constraint using additional arrays/stacks/queues ).
+3. Come up with a brute-force solution first **THINK OUT LOUD**, mention that approach to interviewer asking, "Is the approach okay? Should I start writing the code?" and observe interviewer's body language and face. ( When you mention the overall approach before writing code, interviewer could say it is right or wrong. In that way, you don't waste time on rewriting the entire wrong code ). After brute force approach is mentioned, the interviewer usually asks if you can optimize the code, or he might ask you to start writing brute force approach and optimize it later.
+(Systems design interview: talk about different approach and the trade offs)
+4. Use some visualization.
+5. Test your solution on a few examples after coding.
+
+A Googler wrote code on a paper to prepare for his interview. (Having a whiteboard at home is useful). He mentioned that after you solved enough problems around 200 LC problems, you will start to see the similar pattern: in a real interview, you might not have seen the problem before, the solving pattern would be similar. His distribution in practicing problem difficulty level is 30% easy, 60% medium, and 10% hard. Other people in big tech companies suggest to practice the problems by frequency occurrence of the problems specific to a company if you have a few days/one week to prepare for the interview.
 
 ## Mock Interview Platform
 1. [Elements of Programming Interview Online Judge](https://github.com/adnanaziz/EPIJudge) Problems From Elements of Programming Interview Book
